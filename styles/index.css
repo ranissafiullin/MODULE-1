@@ -1,0 +1,89 @@
+body {
+    width: 100%;
+    font-family: 'Manrope', Courier, monospace;
+    background: #f5f5f5;
+    font-weight: 400px;
+}
+.container {
+margin: 0 auto;
+width: 1400px;
+padding: 0px 125px 150px 125px;
+background: #ffffff;
+
+}
+.slogan {
+color: #121212;
+
+width: 956px;
+text-transform: none;
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: -1.8px;
+padding-top: 128px;
+margin-right: 319px;
+
+}
+.pic-up {
+margin-bottom: 150px;
+width: 1150px;
+height: 500px;
+background-image: url(../resources/first-image.png);
+}
+.div-text {
+padding: 379px 680px 40px 40px;
+}
+.text-pic-up {
+color: #FFF;
+    
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.6px;
+}
+h2 {
+color: #121212;
+
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.54px;
+text-transform: uppercase;
+margin-bottom: 30px;
+}
+
+.about-us {
+color: var(--text, #121212);
+
+font-family: Manrope;
+font-size: 45px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -1.35px;
+margin-bottom: 30px;
+}
+.link {
+    text-decoration: none;
+display: inline-flex;
+padding: 20px 40px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 5px;
+background: var(--accent, #AD1818);
+}
+.link-text {
+color: #FFF;
+
+
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.6px;
+}
