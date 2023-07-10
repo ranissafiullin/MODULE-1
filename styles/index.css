@@ -20,7 +20,7 @@ body {
     height: 500px;
     width: 1150px;
 
-    background-image: url(../resources/interior.png);
+    background-image: url('../resources/interior.png');
 }
 
 .image-text {
